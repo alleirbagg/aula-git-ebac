@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Gabriella Gnoatto
+-Profissão: Engenheira Civil
+-Cidade: Planalto/RS
+-O que faz nas horas vaga: Estudo, me exercito, assisto séries/filmes, brinco com meus pets.
+-Feedback sobre o curso Qualidade de Software: Muito bom! É muito completo, tô aprendendo muito.
+-Feedback sobre a plataforma de estudo da EBAC: Bem intuitiva.
+
+Obrigado!!!
+
+
